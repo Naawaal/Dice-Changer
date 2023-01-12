@@ -1,6 +1,6 @@
 # dicee
 
-A new Flutter project.
+Simple Dicee Changer Apk for those who are new to Flutter
 
 ## Getting Started
 
